@@ -8,4 +8,5 @@ Vous devrez préalablement supprimer le dossier .git qui se trouve dans le proje
 Car je veux maintenant transformer ce projet en un projet indépendant sans aucune référence au dépôt d'origine
 
  Observez les dépendances qui se trouve dans le fichier build.gradle, à quoi correspondent-t-elles ? <br>
+ Ce  fichier contient les éléments que j'ai besoin pour mon projet comme les dépendances pour utiliser Junit ou encore les depots ou on va aller chercher ces dependances.
  
