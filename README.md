@@ -20,7 +20,8 @@ Car je veux maintenant transformer ce projet en un projet indépendant sans aucu
 
 ### Question 2
 
-public class Test_UserGreating {
+public class Test_UserGreating 
+{
     @Test
     
     public void test_formatGreeting(){
